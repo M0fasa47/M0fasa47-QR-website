@@ -34,11 +34,9 @@ img {
 
 body {
   width: 340px;
-  display: flex;
-  flex-direction: column;
-  items-align: center;
-  justify-content: center;
-  height: calc(100vh - 1px);
+  display: block;
+  margin-left: 600px;
+  margin-top: 100px;
   border-radius: 18px;
   background: white;
   border: 1px solid white;
