@@ -18,15 +18,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
-- 
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/basic-vscode-using-vite-6BaCqJGQVd](https://www.frontendmentor.io/solutions/basic-vscode-using-vite-6BaCqJGQVd)
@@ -42,7 +33,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Mohamad Fastak](https://www.mohamadfastak.tech)
+- Website - [Mohamad Fastak](https://www.mohamadfostok.tech)
 - Frontend Mentor - [@MohammadPhi](https://www.frontendmentor.io/profile/MohammadPhi)
 - Twitter - [@M0fasa47](https://www.twitter.com/M0fasa47)
 
