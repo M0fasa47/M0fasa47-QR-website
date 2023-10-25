@@ -19,11 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## My process
 
 ### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+- VScode
+- HTML
+- CSS-Flexbox
 - Vite
-- VScode(ofcourse)
 
 ## Author
 
